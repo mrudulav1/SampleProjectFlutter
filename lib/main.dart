@@ -96,7 +96,7 @@ class HomeScreen extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.center,
               children: [
                 Text(
-                  'Hi Mrudula',
+                  'Hi mrudula',
                   textAlign: TextAlign.center,
                   style: TextStyle(
                     color: Colors.green,
